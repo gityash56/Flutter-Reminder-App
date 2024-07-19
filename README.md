@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## App SS
+
+![Screenshot 2024-07-19 213746](https://github.com/user-attachments/assets/df7ae548-ad20-41d9-81b5-969be5ab816f)
+
 
 This project is a starting point for a Flutter application.
 
